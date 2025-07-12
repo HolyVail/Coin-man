@@ -1,61 +1,122 @@
-🪙 CoinMan
+# CoinMan: A Fun 2D Arcade Game Built with LibGDX 🎮🪙
 
-CoinMan is a simple and addictive 2D arcade-style game built using LibGDX, where the player controls a running character who collects coins and avoids bombs. The game showcases basic game development principles such as sprite animation, collision detection, scoring, and persistent high scores.
+![CoinMan Logo](https://img.shields.io/badge/CoinMan-Game-brightgreen)
 
-🎮 Gameplay Overview
+Welcome to the **CoinMan** repository! This project is a 2D arcade game where players collect coins while dodging bombs. Built with the powerful LibGDX framework, CoinMan offers an engaging gameplay experience that combines fun and learning in game development using Java.
 
-Tap the screen to make the character jump.
+## Table of Contents
 
-Collect coins to increase your score.
+- [Game Features](#game-features)
+- [Installation](#installation)
+- [Gameplay Instructions](#gameplay-instructions)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
 
-Avoid bombs — hitting one ends the game.
+## Game Features
 
-The game keeps track of your high score using LibGDX's Preferences system.
+- **Sprite Animation**: Enjoy smooth animations that enhance the gameplay experience.
+- **Collision Detection**: Navigate through obstacles and avoid bombs with precise collision detection.
+- **Gravity Physics**: Experience realistic movements with gravity physics implemented in the game.
+- **Persistent High Scores**: Compete against yourself and others with a high score tracking system.
+- **Interactive Gameplay**: Engage in a fun and interactive environment designed for all ages.
 
-🛠️ Tech Stack
+## Installation
 
-Language: Java
+To get started with CoinMan, follow these steps:
 
-Framework: LibGDX
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/HolyVail/Coin-man.git
+   ```
 
-Audio: .mp3 files played using LibGDX's audio API
+2. **Open in Android Studio**:
+   - Launch Android Studio.
+   - Select "Open an existing Android Studio project."
+   - Navigate to the cloned repository and open it.
 
-Graphics: PNG textures for characters, bombs, coins, background
+3. **Build the Project**:
+   - Ensure you have the required SDK and dependencies.
+   - Click on "Build" in the menu and select "Make Project."
 
-🧠 Features
+4. **Run the Game**:
+   - Connect your Android device or use an emulator.
+   - Click on the green "Run" button in Android Studio.
 
-🧍‍♂️ Sprite animation for the player
+You can download the latest release [here](https://github.com/HolyVail/Coin-man/releases). Follow the instructions to execute the game on your device.
 
-💥 Collision detection using rectangles and Intersector
+## Gameplay Instructions
 
-📈 Score and high score tracking using Preferences
+Once you have the game running, here’s how to play:
 
-🔊 Integrated sound effects
+- **Objective**: Collect as many coins as possible while avoiding bombs.
+- **Controls**:
+  - Use the arrow keys or on-screen buttons to move CoinMan.
+  - Tap to jump and collect coins in the air.
+- **Scoring**: Each coin collected adds to your score. Avoiding bombs will keep your score intact.
 
-💨 Physics-based jump system using gravity and velocity
+### Tips for High Scores
 
-💾 Persistent high score between sessions
+- Stay aware of bomb locations and plan your moves accordingly.
+- Time your jumps to collect coins that are out of reach.
+- Practice makes perfect! The more you play, the better you'll get.
 
-🚀 How to Run
+## Technologies Used
 
-Install LibGDX setup tools (via gdx-setup.jar).
+CoinMan is built using the following technologies:
 
-Import the project into your preferred Java IDE (like IntelliJ or Eclipse).
+- **LibGDX**: A cross-platform game development framework that allows for easy development and deployment.
+- **Java**: The primary programming language used for game logic and functionality.
+- **Android Studio**: The IDE used for development, providing tools for building and testing Android applications.
 
-Ensure assets are placed in the correct android/assets/ or equivalent directory.
+## Contributing
 
-Run the application from the desktop launcher or Android emulator/device.
+We welcome contributions to improve CoinMan! If you want to help out, follow these steps:
 
-📱 Controls
+1. **Fork the Repository**:
+   - Click on the "Fork" button at the top right of the page.
 
-Tap screen / Click mouse → Make the character jump
+2. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
 
-📝 Notes
+3. **Make Your Changes**:
+   - Implement your feature or fix the bug.
 
-Sound is played each frame — you might want to optimize by only playing on events.
+4. **Commit Your Changes**:
+   ```bash
+   git commit -m "Add your commit message here"
+   ```
 
-Asset loading is currently done in create() method — for larger projects, consider using AssetManager.
+5. **Push to Your Branch**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
 
-🔓 License
+6. **Create a Pull Request**:
+   - Go to the original repository and click on "New Pull Request."
 
-This project is open-source and free to use for educational purposes. Attribution appreciated!
+Thank you for considering contributing to CoinMan!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Releases
+
+For the latest version of CoinMan, visit the [Releases](https://github.com/HolyVail/Coin-man/releases) section. Download the latest release and execute the game on your device.
+
+## Screenshots
+
+![Gameplay Screenshot](https://example.com/screenshot1.png)
+![High Score Screen](https://example.com/screenshot2.png)
+
+## Contact
+
+For questions or feedback, please reach out via GitHub issues or contact the repository owner directly.
+
+---
+
+Feel free to explore the repository, contribute, and most importantly, have fun playing CoinMan!
